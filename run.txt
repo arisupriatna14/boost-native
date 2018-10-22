@@ -1,0 +1,5 @@
+react-native run-ios --simulator 'iPhone X'
+react-native run-ios --simulator 'iPhone 5s'
+react-native run-ios --simulator 'iPhone 8 Plus'
+react-native run-ios --simulator 'iPad Air'
+react-native run-ios --device
